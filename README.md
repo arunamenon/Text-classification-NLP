@@ -5,6 +5,9 @@ Multiple ML models are used to categorize text into different classes
 >- XGBoost
 >- AutoML
 >- GAN-BERT
+>- LSTM
+>- Perceptron
+>- fastText
 
 Example: 'I like everything about it, great choice of spray patterns, it puts out a large volume of water out of my 1" pipes'
 
